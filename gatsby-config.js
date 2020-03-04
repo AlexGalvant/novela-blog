@@ -1,12 +1,12 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
+    title: `Alex Galvan`,
+    name: `Alex Galvan`,
     siteUrl: `https://novela.narative.co`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
-      maxWidth: 652,
+      heading: `Perspectivas sobre tecnologia, desarrollo e Ingenieria y sobre el Futuro que viene.`,
+      maxWidth: 700,
     },
     social: [
       {
@@ -48,9 +48,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Novela by Narative`,
-        short_name: `Novela`,
-        start_url: `/`,
+        name: `Alex Galvan`,
+        short_name: `Alex`,
+        start_url: `/authors/Alex-Galvan`,
         background_color: `#fff`,
         theme_color: `#fff`,
         display: `standalone`,

@@ -1,3 +1,13 @@
+- name: Alex Galvan
+  bio: |
+    Written by You. This is where your author bio lives. Share your work, your
+    joys and of course, your Twitter handle.
+  avatar: ./avatars/alex-galvan.jpg
+  social:
+    - url: https://twitter.com/iamAlexGalvan
+    - url: https://github.com/agalvant29
+    - url: https://linkedin.com/in/alex-galván-a1a8a9197
+    
 - name: Dennis Brotzky
   bio: |
     Written by You. This is where your author bio lives. Share your work, your
