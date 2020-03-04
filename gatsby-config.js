@@ -1,7 +1,7 @@
+require('dotenv').config();
 
 module.exports = {
-  require('dotenv').config();
-
+  
 
   siteMetadata: {
     title: `Alex Galvan`,
